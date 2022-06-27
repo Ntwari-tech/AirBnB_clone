@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    color: #484848;
+    font: 14px "Circular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+button {
+    font: 19px;
+    background-color: #FF5A5F;
+    color: #FFFFFF;
+    height: 48px;
+    width: 20%;
+    border-radius: 4px;
+    margin: auto 30px auto auto;
+    float: right;
+}
+
+button:hover {
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 30px auto 60px auto;
+}
+
+ul {
+    list-style: none;
+    line-height: 18px;
+    padding-left: 15px;
+}
